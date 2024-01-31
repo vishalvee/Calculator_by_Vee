@@ -1,2 +1,2 @@
 # Calculator_by_Vee
-This is a simple calculator program. which is used to perform Basic Calculations.
+This is a simple calculator program. Which is used to perform Basic Calculations.
